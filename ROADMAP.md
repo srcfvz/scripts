@@ -7,3 +7,7 @@ _Last updated (UTC): 2026-01-05 19:00:33Z._
 
 ## Phase 2 — Observability
 - Add optional verbose logging flags and log file rotation guidance.
+<!-- logseq:related:start (managed by brain-sync.sh — edit above this line) -->
+- - -
+🧠 **[[Workspace]]** › **[[scripts]]** #scripts  ·  related: [[scripts/AGENTS]] [[scripts/STATUS]]
+<!-- logseq:related:end -->

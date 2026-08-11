@@ -17,3 +17,7 @@ Keep `STATUS.md` for short script handoffs. Use `../todo/scripts.todo.md` for la
 ## Guardrails
 - Run a dry run before live sync.
 - Keep credentials in `.env` and never commit them.
+<!-- logseq:related:start (managed by brain-sync.sh — edit above this line) -->
+- - -
+🧠 **[[Workspace]]** › **[[scripts]]** #scripts  ·  related: [[scripts/ROADMAP]] [[scripts/STATUS]]
+<!-- logseq:related:end -->

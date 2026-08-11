@@ -14,3 +14,7 @@ _Last updated (UTC): 2026-02-21 04:22:43Z._
 _Times in this log are expressed in UTC._
 ## Handoff Log
 - _2026-01-05 18:51Z:_ Created triad docs and archived README.
+<!-- logseq:related:start (managed by brain-sync.sh — edit above this line) -->
+- - -
+🧠 **[[Workspace]]** › **[[scripts]]** #scripts  ·  related: [[scripts/AGENTS]] [[scripts/ROADMAP]]
+<!-- logseq:related:end -->
