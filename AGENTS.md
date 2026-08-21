@@ -1,5 +1,5 @@
 # Automation Scripts Guidelines
-_Last updated (UTC): 2026-08-11 11:49:44Z._
+_Last updated (UTC): 2026-08-13 18:13:56Z._
 
 ## Snapshot
 - Primary tool: `scripts/joplin_sync.py` (bidirectional Joplin sync with new-note import).
